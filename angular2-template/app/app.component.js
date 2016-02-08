@@ -23,7 +23,7 @@ System.register(['angular2/core'], function(exports_1) {
                     core_1.Component({
                         selector: 'my-app',
                         template: '<h1>My First Angular 2 App</h1>'
-                    }), 
+                    }),
                     __metadata('design:paramtypes', [])
                 ], AppComponent);
                 return AppComponent;
