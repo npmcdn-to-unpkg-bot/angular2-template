@@ -9,6 +9,12 @@
         "noImplicitAny": false
     },
     "exclude": [
-    "node_modules"
+        "angular2",
+        "es6-promise",
+        "es6-shim",
+        "rxjs",
+        "systemjs",
+        "typescript",
+        "reflect-metadata"
   ]
 }
